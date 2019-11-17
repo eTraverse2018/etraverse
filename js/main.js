@@ -411,7 +411,9 @@ jQuery(document).ready(function ($) {
 				"Help Center":{
 					"Contact Us":"contact.html",
 					"info@etraverse.com":"",
-					"Skype: info@eTraverse":""
+					"<b>Skype:</b> info@eTraverse":"",
+					"<b>Address:</b> Shop number 1, 12 Webber Street, Germiston 1401":"",
+					"<b>Phone:</b> 011 025 9277, 0838249299":""
 				}
 			}
 
