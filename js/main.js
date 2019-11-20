@@ -412,8 +412,7 @@ jQuery(document).ready(function ($) {
 					"Contact Us":"contact.html",
 					"info@etraverse.com":"",
 					"<b>Skype:</b> info@eTraverse":"",
-					"<b>Address:</b> Shop number 1, 12 Webber Street, Germiston 1401":"",
-					"<b>Phone:</b> 011 025 9277, 0838249299":""
+					"<b>Address:</b> Shop number 1, 12 Webber Street, Germiston 1401, Johannesburg, South Africa":"",
 				}
 			}
 
